@@ -103,7 +103,7 @@ def _takeImage(c):
     #https://www.codespeedy.com/how-to-capture-a-particular-portion-of-a-screen-in-python/
     
     print(lv_x, lv_y)
-    print(width, height)
+    print("Width and height:", width, height)
 
 
 root = Root()
